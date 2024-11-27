@@ -9,5 +9,5 @@ nonno(X, Y) :-
     genitore(Z, Y).
 
 % Query esempio:
-% ?- genitore(luca, Chi).
-% ?- nonno(luca, Chi).
+% ?- genitore(luca, FiglioDi).
+% ?- nonno(luca, NipoteDi).
